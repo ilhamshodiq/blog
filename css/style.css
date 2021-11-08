@@ -4,7 +4,7 @@ html {
 }
 .parallax {
   /* The image used */
-  background-image: url("../gambar/The12sMB.jpg");  
+  background-image: url("../gambar/charging.gif");  
 
   height: 30%;
   margin-left: 30%;
@@ -13,7 +13,7 @@ html {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 }
 
 header.masthead {
